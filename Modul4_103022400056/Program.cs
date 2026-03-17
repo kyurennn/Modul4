@@ -14,8 +14,15 @@ namespace Modul4_103022400056
         Console.WriteLine("kodePaket paket Traveler : " + paket.getKodePaket("Traveler"));
 
             Console.WriteLine("\n--- Mesin Kopi ---");
+        MesinKopi mesin = new MesinKopi();
 
-        Console.ReadLine();
+            mesin.PowerOn();
+            mesin.StartBrew();
+            mesin.FinishBrew();
+            mesin.StartMaintenace();
+            mesin.FinishMaintenance();
+            mesin.PowerOFF();
+            Console.ReadLine();
         }
     }
 }

@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{78EFEE6E-B0FB-DBC4-8936-3C33BBAED2BB}|Modul4_103022400056\\Modul4_103022400056.csproj|solutionrelative:modul4_103022400056\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{78EFEE6E-B0FB-DBC4-8936-3C33BBAED2BB}|Modul4_103022400056\\Modul4_103022400056.csproj|c:\\users\\daffa\\source\\repos\\modul4_103022400056\\modul4_103022400056\\mesinkopi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78EFEE6E-B0FB-DBC4-8936-3C33BBAED2BB}|Modul4_103022400056\\Modul4_103022400056.csproj|solutionrelative:modul4_103022400056\\mesinkopi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78EFEE6E-B0FB-DBC4-8936-3C33BBAED2BB}|Modul4_103022400056\\Modul4_103022400056.csproj|c:\\users\\daffa\\source\\repos\\modul4_103022400056\\modul4_103022400056\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78EFEE6E-B0FB-DBC4-8936-3C33BBAED2BB}|Modul4_103022400056\\Modul4_103022400056.csproj|solutionrelative:modul4_103022400056\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MesinKopi.cs",
+              "DocumentMoniker": "C:\\Users\\daffa\\source\\repos\\Modul4_103022400056\\Modul4_103022400056\\MesinKopi.cs",
+              "RelativeDocumentMoniker": "Modul4_103022400056\\MesinKopi.cs",
+              "ToolTip": "C:\\Users\\daffa\\source\\repos\\Modul4_103022400056\\Modul4_103022400056\\MesinKopi.cs",
+              "RelativeToolTip": "Modul4_103022400056\\MesinKopi.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:52:45.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KodePaket.cs",
               "DocumentMoniker": "C:\\Users\\daffa\\source\\repos\\Modul4_103022400056\\Modul4_103022400056\\KodePaket.cs",
               "RelativeDocumentMoniker": "Modul4_103022400056\\KodePaket.cs",
               "ToolTip": "C:\\Users\\daffa\\source\\repos\\Modul4_103022400056\\Modul4_103022400056\\KodePaket.cs",
               "RelativeToolTip": "Modul4_103022400056\\KodePaket.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T23:54:46.677Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Modul4_103022400056\\Program.cs",
               "ToolTip": "C:\\Users\\daffa\\source\\repos\\Modul4_103022400056\\Modul4_103022400056\\Program.cs",
               "RelativeToolTip": "Modul4_103022400056\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAArwA8AAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T23:48:39.035Z",
               "EditorCaption": ""
