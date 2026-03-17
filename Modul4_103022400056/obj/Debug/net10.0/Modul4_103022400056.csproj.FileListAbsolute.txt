@@ -1,0 +1,15 @@
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\Modul4_103022400056.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\Modul4_103022400056.AssemblyInfoInputs.cache
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\Modul4_103022400056.AssemblyInfo.cs
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\Modul4_103022400056.csproj.CoreCompileInputs.cache
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\Modul4_103022400056.sourcelink.json
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\bin\Debug\net10.0\Modul4_103022400056.exe
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\bin\Debug\net10.0\Modul4_103022400056.deps.json
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\bin\Debug\net10.0\Modul4_103022400056.runtimeconfig.json
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\bin\Debug\net10.0\Modul4_103022400056.dll
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\bin\Debug\net10.0\Modul4_103022400056.pdb
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\Modul4_103022400056.dll
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\refint\Modul4_103022400056.dll
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\Modul4_103022400056.pdb
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\Modul4_103022400056.genruntimeconfig.cache
+C:\Users\daffa\source\repos\Modul4_103022400056\Modul4_103022400056\obj\Debug\net10.0\ref\Modul4_103022400056.dll
